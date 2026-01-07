@@ -15,9 +15,9 @@
 <a class="uk-logo" href="index.html"><span class="dr_logo"></span></a>
 <button class="uk-offcanvas-close" type="button" data-uk-close></button>
 <ul class="uk-nav uk-nav-primary uk-nav-offcanvas uk-margin-top uk-text-center">
-  <li><a href="#">Home</a></li>
+  <li><a href="/">Home</a></li>
   <li>
-  <div class="uk-navbar-item"><a class="uk-button uk-button-primary" href="#">Login</a></div>
+  <div class="uk-navbar-item"><a class="uk-button uk-button-primary" href="/login">Login</a></div>
 </li>
   </ul>
 <div class="uk-margin-top uk-text-center">

@@ -16,12 +16,12 @@
 	      </div>
 	      <div class="uk-navbar-right">
 	        <ul class="uk-navbar-nav uk-visible@m">
-	          <li ><a href="#">Home</a></li>
+	          <li ><a href="/">Home</a></li>
 			  <?php if($userLogged === true) { ?>
-				<li ><a href="#">Dashboard</a></li>
+				<li ><a href="/dashboard">Dashboard</a></li>
 
 				<?php }?>
-	          <li ><a href="#">Usage</a></li>
+	          <li ><a href="/usage">Usage</a></li>
 	       
 	          <li>
 	            <div class="uk-navbar-item">
